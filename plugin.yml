@@ -1,0 +1,16 @@
+name: Testserver
+author: KekzCrafter
+version: 1.0.4
+description: Testserver software for Paradox Anticheat.
+
+main: de.kekz.testserver.Main
+
+commands:
+   link:
+     aliases: []
+   unlink:
+     aliases: []
+   setrank:
+     aliases: []
+   spawn:
+     aliases: []
